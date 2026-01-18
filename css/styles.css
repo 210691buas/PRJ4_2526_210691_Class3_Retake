@@ -7,22 +7,22 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: #36151E;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #A5C4D4;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #00000;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #AD7A99;
 }
 
 /* Styles for lists in the document */
